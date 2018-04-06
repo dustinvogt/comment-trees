@@ -1,0 +1,8 @@
+{
+ :user-agent            "reddit comment trees 0.2"
+ :scanned-sub           "/r/motorcycles/"
+ :feed                  "new"
+ :max-scans             25
+ :time-between-scans-ms 300000
+ :rows-in-reports       10
+ }
